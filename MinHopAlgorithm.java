@@ -1,4 +1,4 @@
-class Main
+class MinHopAlgorithm
 {
 	// Find minimum jumps required to reach the destination
 	public static int findMinJumps(int[] arr, int i, int n, int[] lookup)
